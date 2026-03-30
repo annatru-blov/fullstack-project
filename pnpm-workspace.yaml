@@ -1,0 +1,4 @@
+packages:
+  - 'be-api'
+  - 'fe-web'
+  - 'be-db'
